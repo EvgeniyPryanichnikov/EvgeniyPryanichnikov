@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-### Обо мне
-- 🔭 Сейчас я работаю над...
-- 🌱 Изучаю...
-- 👯 Хочу сотрудничать по...
+# 🚀 Hi there, I'm **Evgeniy**
+### 💻 Frontend Developer • 📍 Samara, Russia
+-  33 years old  (March 7, 1992)
+-  pryanichnikov.eugeny@yandex.ru
+-  tg: @yaiestrap
 - 💬 Спросите меня о...
 - 📫 Как связаться со мной: [your-email@example.com](mailto:your-email@example.com)
 
