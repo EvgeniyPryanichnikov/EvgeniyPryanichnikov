@@ -6,9 +6,10 @@
 - 💬 Спросите меня о...
 - 📫 Как связаться со мной: [your-email@example.com](mailto:your-email@example.com)
 
-### Языки:
-![Russian B1](https://img.shields.io/badge/Russian_B1-Intermediate-2E8B57?style=flat-square&logo=letterboxd&logoColor=white)
-![English B1](https://img.shields.io/badge/English_B1-Intermediate-1E90FF?style=flat-square&logo=letterboxd&logoColor=white)
+### Skills:
+- Languages: Russian (native), English (B1)
+- Technologies: JS/TS, HTML5, СSS/SCSS, REST API, Vue/Nuxt/React, Git & etc.
+- Expert in Adaptive & Cross-browser layout
 
 ### Мой стек технологий:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
