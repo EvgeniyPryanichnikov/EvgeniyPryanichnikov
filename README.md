@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is **Evgeniy** 
-### Welcome to my Github profile!
+### and I'm glad to welcome you to my page.)
 ### 💻 Frontend Developer • 📍 Samara, Russia
 -  33 years old  (March 7, 1992)
 -  pryanichnikov.eugeny@yandex.ru
