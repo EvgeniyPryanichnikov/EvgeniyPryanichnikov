@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🚀 Hi there, I'm **Evgeniy**
+## Hi there 👋 My name is **Evgeniy**
 ### 💻 Frontend Developer • 📍 Samara, Russia
 -  33 years old  (March 7, 1992)
 -  pryanichnikov.eugeny@yandex.ru
