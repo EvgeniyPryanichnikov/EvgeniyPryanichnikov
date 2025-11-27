@@ -6,7 +6,7 @@
 - 💬 Спросите меня о...
 - 📫 Как связаться со мной: [your-email@example.com](mailto:your-email@example.com)
 
-### Skills:
+### 🛠️ Skills:
 - Languages: Russian (native), English (B1)
 - Technologies: JS/TS, HTML5, СSS/SCSS, REST API, Vue/Nuxt/React, Git & etc.
 - Expert in Adaptive & Cross-browser layout
