@@ -6,7 +6,7 @@
 - 💬 Спросите меня о...
 - 📫 Как связаться со мной: [your-email@example.com](mailto:your-email@example.com)
 
-### Skills:
+### ## <img src="https://api.iconify.design/lucide:code.svg" alt="Skills" width="28" height="28" style="vertical-align: -7px;"> Мои навыки (Skills):
 - Languages: Russian (native), English (B1)
 - Technologies: JS/TS, HTML5, СSS/SCSS, REST API, Vue/Nuxt/React, Git & etc.
 - Expert in Adaptive & Cross-browser layout
