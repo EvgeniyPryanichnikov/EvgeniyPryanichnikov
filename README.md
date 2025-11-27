@@ -7,6 +7,10 @@
 - 💬 Спросите меня о...
 - 📫 Как связаться со мной: [your-email@example.com](mailto:your-email@example.com)
 
+### Языки:
+![Russian](https://img.shields.io/badge/Russian-Intermediate_B1-2E8B57?style=for-the-badge&logo=google-translate&logoColor=white)
+![English](https://img.shields.io/badge/English-Intermediate_B1-1E90FF?style=for-the-badge&logo=google-translate&logoColor=white)
+
 ### Мой стек технологий:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
