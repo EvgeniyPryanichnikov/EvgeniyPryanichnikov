@@ -1,4 +1,4 @@
-## Hi there 👋 My name is **Evgeniy** 
+## Hi, My name is **Evgeniy** 
 ### and I'm glad to welcome you to my page.)
 ### 💻 Frontend Developer • 📍 Samara, Russia
 -  33 years old  (March 7, 1992)
