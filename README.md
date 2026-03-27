@@ -5,7 +5,7 @@
 
 ### Мой стек технологий:
 - Languages: Russian (native), English (B1)
-- Technologies: JS/TS, HTML5, СSS/SCSS, REST API, Vue/Nuxt/React, Git & etc.
+- Technologies: Vue 2/Vue 3, Nuxt 2/3/4, Pinia/Vuex, TypeScript, ES6+, RestAPI, Vitest, Vue Test Utils (VTU), Playwright, Websocket, HTML5, SCSS, Tailwind CSS, UnoCSS, ESLint / Prettier / Stylelint, Vite / Webpack, GitLab CI/CD.
 - Expert in Adaptive & Cross-browser layout
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
