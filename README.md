@@ -1,4 +1,4 @@
-## Привет, меня зовут Евгений** 
+## Привет, меня зовут Евгений! 
 ### Frontend-разработчик • 📍 Samara, Russia
 -  evgeniy.pryanichnikov@yandex.ru
 -  tg: @epryanichnikov
